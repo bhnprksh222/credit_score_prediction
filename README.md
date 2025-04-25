@@ -11,7 +11,7 @@ The project is structured as a Jupyter Notebook and walks through data cleaning,
 ## Project Structure
 
 - `GROUP14_FINAL_PROJECT_CODE.ipynb`: Main notebook containing the full codebase (data loading, preprocessing, modeling, evaluation).
-- `credit_score_cleaned_train.csv`: Cleaned dataset used for training (should be provided separately if not included).
+- `credit_score_cleaned_train.csv`: Cleaned dataset used for training
 
 ---
 
@@ -54,16 +54,13 @@ The project is structured as a Jupyter Notebook and walks through data cleaning,
    - **Recall**
    - **F1 Score**
 
-5. **Comparison**  
-   A summary table is generated comparing the performance of all models.
-
 ---
 
 ## Setup Instructions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/credit-score-classification.git
+   git clone https://github.com/bhnprksh222/credit-score-classification.git
    cd credit-score-classification
    ```
 2. Install required packages
